@@ -22,13 +22,13 @@ This work supports informed, data-driven frailty management strategies, helping 
 
 ## My Contribution  
 
-I led the machine learning implementation and experimentation for this project on 2 main areas - Frailty Detection and Phentotype Modeling. 
+I led the machine learning implementation and experimentation for this project on 2 main areas - Frailty Detection and Phenotype Modeling. 
 
 This included:
-- Designing and running 10 ML experiments for frailty detection (Kim CFI forecasting, phenotype modeling on 53 indicators)   
+- Designing and running 10 ML experiments for frailty detection (3 on Kim CFI forecasting, 7 on Phenotype Modeling of 53 indicators) over multiple patient strata.      
 - Achieving strong performance (RMSE: 0.0052, R²: 0.9956, AUC: up to 0.98).   
 - Visualizing model behavior with calibration curves, ROC/PR curves, and feature importance plots.   
-- Training and deploying a total of 389 models to production.   
+- Training and deploying a total of 389 models to production.    
 
 ## Status Update  
 This work was completed as part of WPI’s Graduate Qualifying Project (GQP) in Fall '24. A summary poster is included in this repo. Further dissemination is under consideration.
