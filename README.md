@@ -7,8 +7,8 @@
 
 ## Authors  
 Dalton Macres, Sreeram Marimuthu, Sheroz Shaikh, Madelyn Marcotte, Aayush Sangani  
-**`Advisors:`** Prof. Chun-Kit Ngan, Prof. Fatemeh Emdad  
-**`Sponsors:`** Dr. Paulo Pinho, Jacob Dodd  
+**Advisors:** Prof. Chun-Kit Ngan, Prof. Fatemeh Emdad  
+**Sponsors:** Dr. Paulo Pinho, Jacob Dodd  
 
 ## Abstract  
 
